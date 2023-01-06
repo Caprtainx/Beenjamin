@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm [Name]! I'm a software engineer with a passion for creating innovative and impactful projects.
+Hi, I'm Benjamin Medina! I'm a software engineer with a passion for creating innovative and impactful projects.
 
 I have a strong foundation in [relevant programming languages and technologies], and I'm always looking for new ways to improve my skills and stay up-to-date on the latest technologies.
 
