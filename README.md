@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi, I'm Benjamin Medina! I'm a software engineer with a passion for creating innovative and impactful projects.
 
-I have a strong foundation in [relevant programming languages and technologies], and I'm always looking for new ways to improve my skills and stay up-to-date on the latest technologies.
-
+I have a strong foundation in Javascript, Python and a lot more! I'm always looking for new ways to improve my skills and stay up-to-date on the latest technologies.
+ 
 I'm an ambitious and driven individual, and I'm always seeking out new opportunities to challenge myself and learn. Whether it's working on a solo project or collaborating with a team, I thrive in environments where I can take on new responsibilities and make a meaningful contribution.
 
 I'm excited to show potential job hirers my skills and share my passion for software engineering. Thank you for considering me for your team!
